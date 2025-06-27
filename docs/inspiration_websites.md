@@ -35,5 +35,13 @@
 - Single scroll
 - Good fonts
 
+## https://www.monographcomms.ca/
+### Pros
+- This one is the favorite so far!!
+- Love the color
+- Love the fonts
+- Like scrolling down to the mission, then keeps the mission along the side
+- Like the bold bottom
+
 # Notes
 https://elements.envato.com/learn/web-design-trends

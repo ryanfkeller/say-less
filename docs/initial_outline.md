@@ -2,6 +2,10 @@
 
 ---
 
+HEADER: Say /less./
+LOGO: /*/
+
+
 ## Homepage
 
 ### Your Story, Said Less — Clear, Concise, Compelling.
