@@ -43,5 +43,13 @@
 - Like scrolling down to the mission, then keeps the mission along the side
 - Like the bold bottom
 
+## https://dieter-rams.webflow.io/
+### Pros
+- Feels super clean and modern
+- Not too long, not too short
+- Like that it's bright
+- Slight title responsiveness
+- Consider modeling off of this one!!!!
+
 # Notes
 https://elements.envato.com/learn/web-design-trends

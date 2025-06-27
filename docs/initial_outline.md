@@ -5,6 +5,10 @@
 HEADER: Say /less./
 LOGO: /*/
 
+Fonts (Google): 
+ - Normal: Roboto
+ - Italics/emphasis: Playfair display (with italics)
+
 
 ## Homepage
 
